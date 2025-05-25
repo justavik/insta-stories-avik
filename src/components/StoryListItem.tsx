@@ -8,7 +8,7 @@ interface StoryListItemProps {
 }
 
 const StoryListItem: React.FC<StoryListItemProps> = ({ userStoryGroup, onClick }) => {
-  const { userName, userAvatarUrl, stories, hasUnviewed, userId } = userStoryGroup;
+  const { userName, userAvatarUrl, stories, hasUnviewed } = userStoryGroup;
   
   const previewStory = stories[0]; 
   if (!previewStory) return null; 
