@@ -1,0 +1,42 @@
+[
+  { 
+    "id": "1", "type": "image", "url": "/stories-media/image1.jpeg", "duration": 5000, 
+    "userId": "user1", "userName": "Alice Wonderland", "userAvatarUrl": "/user-avatars/user1.jpg"
+  },
+  { 
+    "id": "2", "type": "video", "url": "/stories-media/video1.mp4", 
+    "userId": "user2", "userName": "Bob The Builder", "userAvatarUrl": "/user-avatars/user2.jpg"
+  },
+  { 
+    "id": "3", "type": "image", "url": "/stories-media/image2.jpeg", "duration": 5000, 
+    "userId": "user3", "userName": "Charlie Brown", "userAvatarUrl": "/user-avatars/user3.jpg"
+  },
+  { 
+    "id": "4", "type": "video", "url": "/stories-media/video2.mp4", 
+    "userId": "user4", "userName": "Diana Prince", "userAvatarUrl": "/user-avatars/user4.jpg"
+  },
+  { 
+    "id": "5", "type": "image", "url": "/stories-media/image3.jpeg", "duration": 5000, 
+    "userId": "user5", "userName": "Edward Scissorhands", "userAvatarUrl": "/user-avatars/user5.jpg"
+  },
+  { 
+    "id": "6", "type": "video", "url": "/stories-media/video3.mp4", 
+    "userId": "user1", "userName": "Alice Wonderland", "userAvatarUrl": "/user-avatars/user1.jpg"
+  },
+  { 
+    "id": "7", "type": "image", "url": "/stories-media/image4.jpeg", "duration": 5000, 
+    "userId": "user2", "userName": "Bob The Builder", "userAvatarUrl": "/user-avatars/user2.jpg"
+  },
+  { 
+    "id": "8", "type": "image", "url": "/stories-media/image5.jpeg", "duration": 5000, 
+    "userId": "user3", "userName": "Charlie Brown", "userAvatarUrl": "/user-avatars/user3.jpg"
+  },
+  { 
+    "id": "9", "type": "image", "url": "/stories-media/image6.jpeg", "duration": 5000, 
+    "userId": "user4", "userName": "Diana Prince", "userAvatarUrl": "/user-avatars/user4.jpg"
+  },
+  { 
+    "id": "10", "type": "image", "url": "/stories-media/image7.jpeg", "duration": 5000, 
+    "userId": "user5", "userName": "Edward Scissorhands", "userAvatarUrl": "/user-avatars/user5.jpg"
+  }
+] 
